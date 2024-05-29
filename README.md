@@ -11,6 +11,12 @@
 - Firebase Setup
 - Deploying on Firebase
 - Create Sign Up User Account
+- Implement Sign In User API
+- Created Redux Store with userSlice
+- Implemented Sign Out
+- onAuthStateChanged API call
+- Navigation to Browse Page after sign in
+- Update Profile API call
 
 # Features
 
