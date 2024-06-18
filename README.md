@@ -17,6 +17,7 @@
 - onAuthStateChanged API call
 - Navigation to Browse Page after sign in
 - Update Profile API call
+- next
 
 # Features
 
