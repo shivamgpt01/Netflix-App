@@ -26,8 +26,8 @@ const Header = () => {
     onAuthStateChanged(auth, (user) => {
       if (user) {
         //Sign In or Sign Up
-        const { uid, email, displayName } = user;
-        dispatch(addUser({ uid: uid, email: email, displayName: displayName }));
+        const { uid, email, displayName, photoURL } = user;
+        dispatch(addUser({ uid: uid, email: email, displayName: displayName, photoURL:photoURL }));
         navigate("/browse");
       } else {
         // User is signed out
