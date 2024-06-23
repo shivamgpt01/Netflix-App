@@ -17,7 +17,8 @@
 - onAuthStateChanged API call
 - Navigation to Browse Page after sign in
 - Update Profile API call
-- next
+- BugFix: Sign Up user displayName and profile picture update
+- BugFix: Redirect to Login page if the user is not logged in and redirect to browse page if the user is logged in
 
 # Features
 
