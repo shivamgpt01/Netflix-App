@@ -19,6 +19,7 @@
 - Update Profile API call
 - BugFix: Sign Up user displayName and profile picture update
 - BugFix: Redirect to Login page if the user is not logged in and redirect to browse page if the user is logged in
+- Unsubscribed to the onAuthStateChanged callback
 
 # Features
 
