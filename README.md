@@ -20,6 +20,10 @@
 - BugFix: Sign Up user displayName and profile picture update
 - BugFix: Redirect to Login page if the user is not logged in and redirect to browse page if the user is logged in
 - Unsubscribed to the onAuthStateChanged callback
+- Updated contants file
+- Registered on TMDB website to use their APIs
+- Get Data from TMDB Now Playing Movies List API
+- Create Movie Slice and add it to the store
 
 # Features
 
