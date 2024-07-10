@@ -24,6 +24,13 @@
 - Registered on TMDB website to use their APIs
 - Get Data from TMDB Now Playing Movies List API
 - Create Movie Slice and add it to the store
+- Custom Hook for Now Playing Movies
+- Update store with movie data
+- Planning for MainContainer and Secondary Container
+- Fetch data for trailer video
+- Update the store with trailer video data
+- Embedded the youtube video and make it autoplay and mute
+- Added css to main container
 
 # Features
 
