@@ -37,6 +37,13 @@
 - TMDB Image CDN URL
 - Transformed UI with Tailwind
 - usePopularMovies, useUpcomingMovies, useTopRatedMovies custom hooks
+- using chatGPT as a movie recommendation system ( GPT search )
+- GPT search page
+- GPT search bar
+- Added Multi-language feature
+- Integrate GPT APIs
+- Added Keys to .env file
+- Memoization
 
 # Features
 
