@@ -44,6 +44,8 @@
 - Integrate GPT APIs
 - Added Keys to .env file
 - Memoization
+- Add css for mobile (responsive design)
+- updated title and favicon
 
 # Features
 
